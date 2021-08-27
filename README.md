@@ -20,10 +20,10 @@ The following table shows which repository files are associated with which Exper
 | Experiment 5.3 | Degree02\_NoiseCircular\_DistanceSNR.m |
 | Experiment 5.4 | Degree02_NoiseCircular_ProjectionAndOthers_MULTIPLETIMES.m <br /> Degree02_LogisticRegressionGaussHZ.m <br /> Degree02_LogisticRegressionHotT2.m |
 | Experiment 5.5 | Degree02_NoiseCircular_SimulManova.m <br /> Degree02_LogisticRegressionManovaGaussHZ.m <br /> Degree02_LogisticRegressionManovaMBox.m <br /> Degree02_LogisticRegressionManovaMean.m |
-| Experiment 5.6 | [plugins/googleanalytics/README.md][PlGa] |
-| Experiment 5.7 | [plugins/googleanalytics/README.md][PlGa] |
-| Experiment 5.8 | [plugins/googleanalytics/README.md][PlGa] |
-| Experiment 5.9 | [plugins/googleanalytics/README.md][PlGa] |
-| Experiment 5.10 | [plugins/googleanalytics/README.md][PlGa] |
+| Experiment 5.6 | Degree03_NoiseCircular_ProjectionAndOthers_MULTIPLETIMES.m <br /> Degree03_LogisticRegressionGaussHZ.m <br /> Degree03_LogisticRegressionHotT2.m |
+| Experiment 5.7 | Degree03_NoiseCircular_SimulManova.m <br /> Degree03_LogisticRegressionManovaGaussHZ.m <br /> Degree03_LogisticRegressionManovaMBox.m <br /> Degree03_LogisticRegressionManovaMean.m |
+| Experiment 5.8 | Degree02\_NoiseFullMatrix\_SimulBiasVsIterOne.m |
+| Experiment 5.9 | Degree02_NoiseFullMatrix_ProjectionAndOthers_MULTIPLETIMES.m <br /> Degree02_LogisticRegressionGaussHZ.m <br /> Degree02_LogisticRegressionHotT2.m |
+| Experiment 5.10 | Degree02_NoiseFullMatrix_SimulManova.m <br /> Degree02_LogisticRegressionManovaGaussHZ.m <br /> Degree02_LogisticRegressionManovaMBox.m <br /> Degree02_LogisticRegressionManovaMean.m |
 
 
