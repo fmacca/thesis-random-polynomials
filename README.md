@@ -13,7 +13,7 @@ The repository contains all the MATLAB files used to perform the simulations des
 ## Thesis experiments and repository files
 The following table shows which repository files are associated with which Experiment in the thesis. Files not mentioned in the table have been used for a preliminary analysis and are not directly associated to any experiment in the thesis.
 
-| Plugin | README |
+| Thesis Experiment number | Files in the repository |
 | ------ | ------ |
 | Dropbox | [plugins/dropbox/README.md][PlDb] |
 | GitHub | [plugins/github/README.md][PlGh] |
