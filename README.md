@@ -15,7 +15,7 @@ The following table shows which repository files are associated with which Exper
 
 | Thesis Experiment number | Files in the repository |
 | ------ | ------ |
-| Experiment 5.1 | [plugins/dropbox/README.md][PlDb] |
+| Experiment 5.1 | Degree02\_NoiseCircular\_SimulBiasVsIterOne |
 | Experiment 5.2 | [plugins/github/README.md][PlGh] |
 | Experiment 5.3 | [plugins/googledrive/README.md][PlGd] |
 | Experiment 5.4 | [plugins/onedrive/README.md][PlOd] |
