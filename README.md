@@ -5,7 +5,7 @@ The repository contains all the MATLAB files used to perform the simulations des
 ## Content
 - The *Resources* folder contains a set of functions providing useful utilities for the simulations. Each function contains a description of its usage. Some functions have been created by the outhor of this repository, some others have been adapted from external sources. In that case the original source is credited in the function description and cited in the thesis.
 - Simulation files, named with the format *DegreeN_NoiseXxxxx_SimulYyyyyyy*, where:
- -- *N*: Degree of the polynomial
+-- *N*: Degree of the polynomial
  -- *Xxxxx*: Circular, (Diagonal,) FullMatrix
  -- *Yyyyyyy*: a short description of the simulation (e.g. BiasVsIter, MseVsSomething, ...)
 - Logistic regression analyisis files, named with the format *DegreeN_LogisticRegressionXxxxx* where *Xxxxx* indicates the type of statistical test result (e.g. Henze-Zirkler, Hotelling's T2, ...) that is analyzed with the logistic regression procedure described in the thesis.
