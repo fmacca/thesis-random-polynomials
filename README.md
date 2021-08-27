@@ -11,15 +11,19 @@ The repository contains all the MATLAB files used to perform the simulations des
 - Logistic regression analyisis files, named with the format *DegreeN_LogisticRegressionXxxxx* where *Xxxxx* indicates the type of statistical test result (e.g. Henze-Zirkler, Hotelling's T2, ...) that is analyzed with the logistic regression procedure described in the thesis.
 
 ## Thesis experiments and repository files
-The following table shows which repository files are associated with which Experiment in the thesis. Files not mentioned in the table have been used for a preliminary analysis and are not directly associated to any experiment in the thesis.
+The following table shows which repository files are associated with which Experiment in the thesis. Files not mentioned in the table are not directly associated to any experiment in the thesis.
 
 | Thesis Experiment number | Files in the repository |
 | ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| Experiment 5.1 | [plugins/dropbox/README.md][PlDb] |
+| Experiment 5.2 | [plugins/github/README.md][PlGh] |
+| Experiment 5.3 | [plugins/googledrive/README.md][PlGd] |
+| Experiment 5.4 | [plugins/onedrive/README.md][PlOd] |
+| Experiment 5.5 | [plugins/medium/README.md][PlMe] |
+| Experiment 5.6 | [plugins/googleanalytics/README.md][PlGa] |
+| Experiment 5.7 | [plugins/googleanalytics/README.md][PlGa] |
+| Experiment 5.8 | [plugins/googleanalytics/README.md][PlGa] |
+| Experiment 5.9 | [plugins/googleanalytics/README.md][PlGa] |
+| Experiment 5.10 | [plugins/googleanalytics/README.md][PlGa] |
 
 
