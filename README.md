@@ -18,9 +18,8 @@ The following table shows which repository files are associated with which Exper
 | Experiment 5.1 | Degree02\_NoiseCircular\_SimulBiasVsIterOne.m |
 | Experiment 5.2 | Degree02\_NoiseCircular\_SimulMseVsSnr.m |
 | Experiment 5.3 | Degree02\_NoiseCircular\_DistanceSNR.m |
-| Experiment 5.4 | Degree02_NoiseCircular_ProjectionAndOthers_MULTIPLETIMES.m |
-|                | Degree02_LogisticRegressionGaussHZ <br /> Degree02_LogisticRegressionHotT2 |
-| Experiment 5.5 | [plugins/medium/README.md][PlMe] |
+| Experiment 5.4 | Degree02_NoiseCircular_ProjectionAndOthers_MULTIPLETIMES.m <br /> Degree02_LogisticRegressionGaussHZ.m <br /> Degree02_LogisticRegressionHotT2.m |
+| Experiment 5.5 | Degree02_NoiseCircular_SimulManova.m <br /> Degree02_LogisticRegressionManovaGaussHZ.m <br /> Degree02_LogisticRegressionManovaMBox.m <br /> Degree02_LogisticRegressionManovaMean.m |
 | Experiment 5.6 | [plugins/googleanalytics/README.md][PlGa] |
 | Experiment 5.7 | [plugins/googleanalytics/README.md][PlGa] |
 | Experiment 5.8 | [plugins/googleanalytics/README.md][PlGa] |
